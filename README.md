@@ -1,5 +1,6 @@
 #Knob-Indicator-GLSL
 This project demonstrates how to create knob indicator using one texture and OpenGL shader language.
+![](preview.gif)
 
 #Depencies
 To run you need [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) from [patriciogonzalezvivo](https://github.com/patriciogonzalezvivo)
