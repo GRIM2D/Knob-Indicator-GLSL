@@ -27,11 +27,11 @@ and easily can be modified for your project
 
 `knob_mask.png` - texture needed for creating texture
 
-`knob.png` - this is texture is used to show how it will look
+`knob.png` - this texture is used to show how it will look
 
 `knob.psd` - Photoshop document for textures
 
-`run.sh` - shell script for executing easily
+`run.sh` - shell script for easy executing
 
 
 #License
